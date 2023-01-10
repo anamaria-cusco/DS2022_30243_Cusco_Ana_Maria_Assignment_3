@@ -4,3 +4,6 @@
 [submodule "DS2022_30243_Cusco_Ana_Maria_Assignment_1_Frontend"]
 	path = DS2022_30243_Cusco_Ana_Maria_Assignment_1_Frontend
 	url = https://github.com/anamaria-cusco/DS2022_30243_Cusco_Ana_Maria_Assignment_1_Frontend
+[submodule "DS2022_30243_Cusco_Ana_Maria_Assignment3_gRPC"]
+	path = DS2022_30243_Cusco_Ana_Maria_Assignment3_gRPC
+	url = https://github.com/anamaria-cusco/DS2022_30243_Cusco_Ana_Maria_Assignment3_gRPC.git
